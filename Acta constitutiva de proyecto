@@ -1,0 +1,161 @@
+EQUIPO 1 9N1IS
+
+- Proposito y justificacion del Proyecto.
+
+La Unidad Educativa Casta J. Riera es  vista como una organización, viene a 
+ser un grupo administrativo organizado de participación ciudadana que presta
+una serie de servicios al estudiantado y a su vez gestiona e impulsa el 
+proceso de educación en el país, los mismos no escapan de la demanda por 
+parte de los organismos competentes como el caso de gobernaciones, alcaldías,
+entre otros, sobre su gestión en cada comunidad o población.
+
+Esta organización lleva a cabo una serie de procesos de forma manual
+resaltando que como toda organización se enfoca en realizar sus tareas
+de forma eficaz y a tiempo para cumplir con todo lo que deben realizar,
+es por esto que para esos procesos necesitan de mas inversión de tiempo
+y de personal para poder llevarlo a cabo de la manera en que se lo proponen,
+pero es aquí donde nace la necesidad de hacer uso de algún sistema de
+información que ayude a llevar a cabo esos  proceso de forma más fácil
+y sin tanta inversión, recordando que en la actualidad el mundo de las
+organizaciones es muy cambiante y hay que adaptarse para buscar mejoras 
+en el nivel administrativo.
+
+- Objetivos medibles del proyecto y criterios de exitos
+
+* LLevar los ultimos avances tecnologicos en el ambito educativo y todas
+las generaciones de la comunidad Rafael Caldera.
+* Realizar el proyecto de inscripcion via web en un tiempo estimado de 120
+horas, comprendido entre el mes de agosto y octubre.
+* Garantizar buenos equipos (Server y Hosting) para la operatividad del
+proyecto y un desarrollo eficaz.
+* Promover un buen uso de la aplicacion, para una aceptacion exitosa y un facil
+manejo por los usuarios finales.
+
+- Requerimientos de alto nivel
+
+Los requerimientos del proyecto lo dividiremos en 3 modulos 
+
+*Para las inscripciones:
+
+a) Obtener un registro de los representantes, padres y estudiantes formularios de facil llenado
+   y asi mismo poder manejar la informacion para futuras ediciones cuando lo deseen
+
+b) Mostrar los pasos y requerimientos para formalizar la inscripcion mediante un manual
+
+c) Facilitacion de obtener la planilla de inscripcion completa una vez el usuario haya introducido sus datos
+
+d) Envio de correos electronicos a los usuarios automaticamente una vez se le haya asignado el cupo a su representado
+
+
+*Para la seccion de informacion:
+
+a) Mostrar y brindar los acontecimientos recientes de la institucion mediante una seccion de noticias
+
+b) Tener un control por medio del administrador del modulo de la seccion de noticias para su edicion 
+   o actualizacion 
+
+c) Consultar la lista de utiles actualizada para cada uno de los grados
+
+*Para la parte administrativa 
+
+a) Permitir a el personal asignar cupos y formalizar las inscripciones de cada estudiante
+
+b) Contar con un modulo para administrar las solicitudes de retiros de estudiantes realizada por su representante
+
+c) Generar las constancias estudiantiles que se necesiten
+
+d) Reinscribir a los estudiantes activos del plantel 
+
+* Requerimientos generales
+
+a) Ser simple y amigable para que los usuarios navegen por la pagina web de forma intuitiva
+
+b) Acceso a la pagina web desde cualquier tipo de disposito 
+
+c) Incorporar las nuevas tecnologías basadas en las comunidades de usuarios, como 
+las redes sociales (Facebook, Twitter, YouTube, etc), entre otras aplicaciones 
+nuevas de Internet.
+
+d) Compatibilidad con todos los exploradores del mercado.
+     
+
+- Descripcion del proyecto.
+
+El proyecto se realizará en la Escuela Básica Casta J Riera que se encuentra ubicada 
+en la urbanización Rafael Caldera en la zona oeste de Barquisimeto estado Lara, dicho 
+proyecto es una innovacion tecnologica para el plantel educativo, partiendo de un proceso 
+de inscripcion manual y llevandolo via web, con la finalidad de promover la
+tecnologia en todo los ambitos, en este caso especificamente en el ambito de
+educacion, disminuir el uso de materiales administrativos pensando en el 
+ambiente, asi como tambien el margen de error que se cometian en el proceso 
+manual y por ultimo lograr una mayor eficiencia al momento de realizar la 
+inscripcion escolar, basandonos principalmente en convertir este proceso en
+algo sumamente sencillo, practico, innovador  y sobre todo factible, aportando 
+al personal administrativo un mayor control academico.
+
+Asimismo el proyecto contará con los respectivos modulos del llenado de los datos tanto del 
+representante como de sus estudiantes asociados, contará tambien con un modulo de manejo de
+los retiros estudiantiles y tambien promovera la información que sea neceria hacer llegar a 
+todos los usuarios del plantel.
+
+- Riesgos de alto nivel
+
+1. Vulnerabilid de inyeccion de codigo
+2. Perdida de autenticacion y gestion de sesiones
+3. Configuracion de seguridad interna incorrecta
+4. Referencias directas inseguras a modulos de implementacion interno
+5. Exposicion de datos sensibles, tales como direccion, documentos de identidad, 
+   entre otros que no deben ser visto por todos los usuarios
+6. Utilizacion de componentes con vulnerabilidades muy conocidas
+7. Deficiente transferencia de datos, que conllevan a caidas de la pagina web.
+
+- Agenda de hitos principales
+
+1. Crear la base de datos con los campos requeridos		
+2. Comenzar con el diseño maquetado de la pagina web 			
+3. Presentación de Prototipo no funcional al cliente			
+4. Realizar correcciones al sistema planteadas en la presentación del prototipo  			
+5. Desarrollar pagina web funcional con todos los requerimientos de alto nivel			
+6. Contratar un servicio de hosting apropiado			
+7. Llenado de base de datos de físicos a digitales			
+8. Realizar pruebas de funcionamiento a la pagina web			
+9. Realizar  talleres de capacitación al personal que manejara el sistema			
+10. Chequear mediante pruebas el manejo eficiente del sistema por parte del personal			
+
+
+Se planea culminar el proyecto a la fecha del 01 del mes de diciembre del año 2014
+
+- Resumen de presupuesto
+
+Se tiene como un presupuesto inicial de 15600Bs que incluyen el costo del proyecto web con su respectivo hosting
+
+- Requerimientos de aprobacion del proyecto
+
+ Quien aprobara el proyecto será el Project Manager encargado de hacer que 
+el proyecto se cumpla en el periodo de 5 meses detallando asi cada uno de los entregables:
+ *Resultados de analisis de necesidades
+ *Diseño de la pagina web
+ *Documentacion para usuarios y programadores
+ *Estimacion de costes finales
+
+- Project Manager asignado y grado de Responsabilidad
+
+El Project Manager encargado será María Etura, la cual se responsabiliza
+de hacer cumplir el proyecto en el tiempo estimado y gestionar las tareas del
+equipo de proyecto, los cuales se dividen en 
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Gerente financiero ***  Martha Mendez      *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Analista de Datos   ***  Brinner Molina        *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Diseñador web      ***   Jorge Rivas            *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Programador         *** Yahiliana Melendez *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+* Programador         ***     María Etura           *
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+- Nombre del Sponsor y nivel
+Cliente:
+ Thaylande Garcia SubDirectora de la Escuela Basica Casta J Riera
